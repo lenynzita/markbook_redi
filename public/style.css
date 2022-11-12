@@ -1,0 +1,85 @@
+body{
+  background-color:wheat;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+h1{
+  font-family: 'Berkshire Swash', cursive;  
+
+}
+.icon{
+  font-family: 'Luxurious Roman', 'cursive';
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  border-color: #555555;
+}
+.book{
+  font-family: 'Domine', serif;
+  font-size: 570%;
+  color: #555555;
+  
+}
+.personal{
+  font-size:x-large;
+  cursor: pointer;
+}
+.btn {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.btn {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+
+.btn:hover {
+  background-color: #555555;
+  color: white;
+}
+.form-control{
+  color: #555555;
+}
+.page{
+  color: black;
+}
+
+  .btns {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+   
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 15px;
+  }
+  .btns {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+  }
+  
+  .btns:hover {
+    background-color: #555555;
+    color: white;
+  }
